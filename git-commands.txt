@@ -1,0 +1,6 @@
+git init -- inside folder, initialize Git
+git status -- see uncommitted files
+git add <file-name> -- stage file
+git add . -- stage all changed files
+git rm --cached <file-name> -- unstage
+

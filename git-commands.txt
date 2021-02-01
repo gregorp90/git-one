@@ -9,3 +9,5 @@ git commit -m "<message>" -- commit changes
 git log -- see commit history
 git log --oneline -- see commit history condensed
 esc + :wq + enter
+git checkout <commit-ID> -- look back in time
+git checkout master -- go to current state

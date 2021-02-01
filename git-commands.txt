@@ -3,4 +3,7 @@ git status -- see uncommitted files
 git add <file-name> -- stage file
 git add . -- stage all changed files
 git rm --cached <file-name> -- unstage
+git commit -m "<message>" -- commit changes
+  (save point, like in a computer game, with
+   a descriptive message what we changed)
 

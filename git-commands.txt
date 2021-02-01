@@ -8,3 +8,4 @@ git commit -m "<message>" -- commit changes
    a descriptive message what we changed)
 git log -- see commit history
 git log --oneline -- see commit history condensed
+esc + :wq + enter

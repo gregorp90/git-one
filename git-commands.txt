@@ -6,4 +6,5 @@ git rm --cached <file-name> -- unstage
 git commit -m "<message>" -- commit changes
   (save point, like in a computer game, with
    a descriptive message what we changed)
-
+git log -- see commit history
+git log --oneline -- see commit history condensed

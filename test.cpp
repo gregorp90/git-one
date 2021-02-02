@@ -8,9 +8,6 @@ using namespace std;
 int main() {
   cout << "Hello world!" << endl;
   cout << "Hello 2!" << endl;
-<<<<<<< HEAD
   cout << "Hello" << endl;
-=======
   cout << "Hello branch!" << endl;
->>>>>>> feature-c
 }
